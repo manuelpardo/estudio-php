@@ -1,0 +1,29 @@
+{
+    "name": "delllocal/prueba",
+    "description": "Sitio Web de Monkeys-Labs",
+    "type": "project",
+    "require": {
+        "zendframework/zend-diactoros": "^2.1",
+        "http-interop/response-sender": "^1.0",
+        "league/container": "^3.3",
+        "espresso/app": "^1.0",
+        "symfony/dotenv": "^4.3",
+        "espresso/validator": "^1.0",
+        "twig/twig": "^2.11",
+        "symfony/asset": "^4.3",
+        "symfony/assetic-bundle": "^2.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TaskList\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "manuel pardo",
+            "email": "mpardo@linuxero.cl"
+        }
+    ],
+    "minimum-stability": "stable"
+}
