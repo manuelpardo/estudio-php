@@ -9,9 +9,7 @@
         "espresso/app": "^1.0",
         "symfony/dotenv": "^4.3",
         "espresso/validator": "^1.0",
-        "twig/twig": "^2.11",
-        "symfony/asset": "^4.3",
-        "symfony/assetic-bundle": "^2.8"
+        "twig/twig": "^2.11"
     },
     "license": "MIT",
     "autoload": {
