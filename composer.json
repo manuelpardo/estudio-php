@@ -9,7 +9,7 @@
         "espresso/app": "^1.0",
         "symfony/dotenv": "^4.3",
         "espresso/validator": "^1.0",
-        "twig/twig": "^2.11"
+        "twig/twig": "^3.11"
     },
     "license": "MIT",
     "autoload": {
